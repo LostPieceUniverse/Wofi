@@ -2,4 +2,4 @@
 
 //screenshot
 
-> A green theme for [wofi](https://hg.sr.ht/~scoopta/wofi).
+> My Greenified Version of [wofi](https://hg.sr.ht/~scoopta/wofi).
