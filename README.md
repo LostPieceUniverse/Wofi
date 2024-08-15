@@ -1,5 +1,5 @@
 # Green Themed Wofi :frog:
 
-//screenshot
+![Screenshot](./wofi.png)
 
 > My Greenified Version of [wofi](https://hg.sr.ht/~scoopta/wofi).
